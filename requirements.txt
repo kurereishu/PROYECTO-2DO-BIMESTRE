@@ -1,0 +1,5 @@
+numpy==1.26.4
+matplotlib==3.8.2
+pysolar==0.10
+tkcalendar==1.6.1
+pytz==2023.3
